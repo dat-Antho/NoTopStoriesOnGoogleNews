@@ -7,5 +7,9 @@
 // @description Remove Top stories and top stories menu form google news
 // @include https://news.google.fr/
 // ==/UserScript==
-document.getElementsByClassName('top-stories-section')[0].style.display = 'none';
-document.getElementsByClassName('nv-FRONTPAGE')[0].style.display = 'none';
+(function () {
+    "use strict";
+    // We hide elements that have the class of the top stories this include the top stories link in the navigation
+    document.getElementsByClassName("top-stories-section")[0].style.display = "none";
+    document.getElementsByClassName("nv-FRONTPAGE")[0].style.display = "none";
+}());
