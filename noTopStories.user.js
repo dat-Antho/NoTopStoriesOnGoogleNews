@@ -6,6 +6,7 @@
 // author Dat_Antho
 // @description Remove Top stories and top stories menu form google news
 // @include https://news.google.fr/
+// @include https://news.google.com/
 // ==/UserScript==
 (function () {
     "use strict";
