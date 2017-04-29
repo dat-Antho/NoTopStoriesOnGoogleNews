@@ -9,8 +9,12 @@
 // @include https://news.google.com/*
 // @include http://news.google.fr/*
 // @include http://news.google.com/*
-// @include     /^https?://www\.news.google\.com/.*$/
-// @include     /^https?://www\.news.google\.fr/.*$/
+// @include https://news.google.fr/news*
+// @include https://news.google.com/news*
+// @include http://news.google.fr/news*
+// @include http://news.google.com/news*
+
+
 
 // ==/UserScript==
 (function () {
