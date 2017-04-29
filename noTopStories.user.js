@@ -9,6 +9,9 @@
 // @include https://news.google.com/*
 // @include http://news.google.fr/*
 // @include http://news.google.com/*
+// @include     /^https?://www\.news.google\.com/.*$/
+// @include     /^https?://www\.news.google\.fr/.*$/
+
 // ==/UserScript==
 (function () {
     "use strict";
