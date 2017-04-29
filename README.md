@@ -4,6 +4,7 @@
 Script Greasemonkey réaliser pour supprimer la section " A la une " de Google News
 
 
+
 ## Installation Firefox/Chrome
 
 1. Installer greasemonkey(Firefox) ou Tampermonkey(Google Chrome) sur votre navigateur
